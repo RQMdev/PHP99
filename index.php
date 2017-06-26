@@ -14,7 +14,7 @@
       <li class="list7">Exercice 7</li>
     </ul>
     </nav>
-    <span><h1>Exercice PHP sur la manipulation de Tableaux</h1></span>
+    <span><h1>Exercice PHP sur la manipulation<br> de Tableaux</h1></span>
     <section class="section1 is-showing">
       <h2>Exercice 1 Niveau 2</h2>
       <?php  
